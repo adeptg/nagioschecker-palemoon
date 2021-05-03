@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content
+END
+nagioschecker-parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-parser.js
+END
+nagioschecker-overlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-overlay.xul
+END
+nagioschecker.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker.js
+END
+warning.wav
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/warning.wav
+END
+hostdown.wav
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/hostdown.wav
+END
+nagioschecker-new.xul
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-new.xul
+END
+nagioschecker-passwords.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-passwords.js
+END
+nagioschecker-about.xul
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-about.xul
+END
+nagioschecker-options.xul
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-options.xul
+END
+critical.wav
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/critical.wav
+END
+contents.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/contents.rdf
+END
+nagioschecker-new.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-new.js
+END
+nagioschecker-options.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/37/tags/RELEASE_0_9/srcExtension/chrome/nagioschecker/content/nagioschecker-options.js
+END
